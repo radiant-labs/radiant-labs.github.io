@@ -13,7 +13,7 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: 'RadiantKit GitHub',
+  title: 'RadiantKit | Github',
   description: 'Build Graphic Apps 10x Faster!',
 }
 
@@ -35,7 +35,8 @@ export default function RootLayout({
         `}
       </Script>
       <Head>
-        <title>RadiantKit Github</title>
+        <title>RadiantKit | Github</title>
+        <meta name='description'>Build Graphic Apps 10x Faster!</meta>
         <meta name="google-site-verification" content="xy_j_QQqJqkGPz_WT10w76FR3HBixyk5PdP0QERa3ks" />
       </Head>
       <body className={`${inter.variable} font-inter antialiased bg-white text-gray-900 tracking-tight`}>
