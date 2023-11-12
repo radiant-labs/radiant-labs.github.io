@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata = {
   title: 'RadiantKit GitHub',
-  description: 'Build Graphic Apps 10x Faster',
+  description: 'Build Graphic Apps 10x Faster!',
 }
 
 export default function RootLayout({
