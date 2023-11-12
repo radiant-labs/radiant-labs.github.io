@@ -40,10 +40,10 @@ export default function Hero() {
                   <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="http://docs.radiantkit.xyz/">Docs</a>
                 </div>
               </div>
-              <br />
+              {/* <br />
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <a href="https://www.producthunt.com/posts/radiantkit?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-radiantkit" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=424770&theme=light" alt="RadiantKit - Build&#0032;Graphic&#0032;Apps&#0032;10x&#0032;Faster&#0033; | Product Hunt" width="250" height="54" /></a>
-              </div>
+              </div> */}
             </div>
           </div>
 
