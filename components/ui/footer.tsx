@@ -105,7 +105,7 @@ export default function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">NEO QUEST PRIVATE LIMITED</div>
+          <div className="text-sm text-gray-600 mr-4">RadiantKit</div>
 
         </div>
 
